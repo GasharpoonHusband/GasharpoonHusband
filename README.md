@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://tr.rbxcdn.com/180DAY-7b42323f6452858177813acadebf3a4f/420/420/Hat/Webp/noFilter"  />
+<img align="right" height="200" src="https://tr.rbxcdn.com/180DAY-7b42323f6452858177813acadebf3a4f/420/420/Hat/Webp/noFilter"  />
 
 ###
 
