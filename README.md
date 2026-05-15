@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="498" src="https://ella.janitorai.com/bot-avatars/XnmU3fiFlxWT-UT1vjSuv.webp?width=1200"  />
+  <img height="350" src="https://ella.janitorai.com/bot-avatars/XnmU3fiFlxWT-UT1vjSuv.webp?width=1200"  />
 </div>
 
 ###
