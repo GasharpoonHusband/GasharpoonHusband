@@ -1,22 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="310" src="https://ella.janitorai.com/bot-avatars/XnmU3fiFlxWT-UT1vjSuv.webp?width=1200"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://tr.rbxcdn.com/180DAY-7b42323f6452858177813acadebf3a4f/420/420/Hat/Webp/noFilter"  />
-
-###
-
-<h2 align="left">ㅤ⠀⠀ ㅤ⠀⠀Mis redes más usadas + Historial de Spotify<br><br>ㅤㅤ  ⠀(Whastapp no disponible, DM en Discord para pedir)</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://discord.com/users/864982291457507359" target="_blank">
